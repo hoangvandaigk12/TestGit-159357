@@ -1,6 +1,6 @@
 <%-- 
-    Document   : Page2
-    Created on : Jun 27, 2021, 3:40:55 PM
+    Document   : page2
+    Created on : Jun 27, 2021, 3:55:30 PM
     Author     : AD
 --%>
 
@@ -13,7 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <p>page2-dai1</p>
-        <p>page2-dai2</p>
     </body>
 </html>
