@@ -14,5 +14,6 @@
     <body>
         <h1>Hello World!</h1>
         <p>page2-dai1</p>
+        <p>page2-dai2</p>
     </body>
 </html>
