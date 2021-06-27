@@ -1,3 +1,4 @@
 tạo mới file thang.txt
 Dai1
+Thang1
 Dai thêm txt
