@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <p>page2-thang1</p>
     </body>
 </html>
