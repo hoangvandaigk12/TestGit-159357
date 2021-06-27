@@ -1,1 +1,3 @@
 tạo mới file thang.txt
+
+Dai thêm txt
